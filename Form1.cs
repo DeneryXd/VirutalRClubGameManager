@@ -15,7 +15,7 @@ namespace GameManager
 {
     public partial class Form1 : Form
     {
-        string AW1 = "192.168.50.225:5555";
+        string AW1 = "192.168.50.225:5555"; //first comment for test
         string AW2 = "192.168.50.172:5555";
         string AW3 = "192.168.50.205:5555";
         string AW4 = "192.168.50.226:5555";
